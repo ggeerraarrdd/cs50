@@ -47,19 +47,19 @@ For portfolio purposes, pset8 of CS50x: `Homepage` is an exception. Check it out
 These projects are shared in the spirit of self-learning, and hope they become valuable resources in your own educational journey.
 
 ![The Bear, The Chicken, Hedgehog, The Hen, The Parrot and The Toucan: The Game](/docs/cs50_1.jpg)
-_(The Bear, The Chicken, Hedgehog, The Hen, The Parrot and The Toucan: The Game. More screenshots below.)_
+_(The Bear, The Chicken, Hedgehog, The Hen, The Parrot and The Toucan: The Game)_
 
 ## Target Users
 
 _CS50_ is intended for:
 
-* **CS50 course students** seeking examples of final projects.
+* **CS50 course students** seeking examples of final projects for inspiration.
 * **Self-guided learners** interested in seeing the evolution of projects from academic submissions to more refined applications.
 * **Potential employers or recruiters** reviewing portfolio work.
 
 ## Features
 
-* 📚 **Learning Resource**: Archive of final projects from multiple CS50 course variants (CS50x, CS50P, CS50SQL)
+* 📚 **Learning Resource** - Archive of final projects from multiple CS50 course variants (CS50x, CS50P, CS50SQL)
 
 ## Project Structure
 
