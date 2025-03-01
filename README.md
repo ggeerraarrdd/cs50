@@ -53,13 +53,13 @@ _(The Bear, The Chicken, Hedgehog, The Hen, The Parrot and The Toucan: The Game.
 
 _CS50_ is intended for:
 
-* CS50 course students seeking examples of final projects.
-* Self-guided learners interested in seeing the evolution of projects from academic submissions to more refined applications.
-* Potential employers or recruiters reviewing portfolio work.
+* **CS50 course students** seeking examples of final projects.
+* **Self-guided learners** interested in seeing the evolution of projects from academic submissions to more refined applications.
+* **Potential employers or recruiters** reviewing portfolio work.
 
 ## Features
 
-* Archive of final projects from multiple CS50 course variants (CS50x, CS50P, CS50SQL)
+* 📚 **Learning Resource**: Archive of final projects from multiple CS50 course variants (CS50x, CS50P, CS50SQL)
 
 ## Project Structure
 
