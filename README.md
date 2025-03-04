@@ -11,12 +11,14 @@ An archive of work for CS50x, CS50P and CS50SQL
 * [Target Users](#target-users)
 * [Features](#features)
 * [Project Structure](#project-structure)
-* [Prerequisites](#prerequisites)
-* [Getting Started](#getting-started)
+* [Quick Start](#quick-start)
+* [Local Setup](#local-setup)
+  * [Prerequisites](#prerequisites)
   * [Dependencies](#dependencies)
   * [Installation](#installation)
   * [Configuration](#configuration)
 * [Usage](#usage)
+* [Production Setup](#production-setup)
 * [System Administration](#system-administration)
 * [Author(s)](#authors)
 * [Version History](#version-history)
@@ -46,7 +48,7 @@ For portfolio purposes, pset8 of CS50x: `Homepage` is an exception. Check it out
 
 These projects are shared in the spirit of self-learning, and hope they become valuable resources in your own educational journey.
 
-![The Bear, The Chicken, Hedgehog, The Hen, The Parrot and The Toucan: The Game](/docs/cs50_1.jpg)
+![The Bear, The Chicken, Hedgehog, The Hen, The Parrot and The Toucan: The Game](assets/cs50_1.jpg)
 _(The Bear, The Chicken, Hedgehog, The Hen, The Parrot and The Toucan: The Game)_
 
 ## Target Users
@@ -65,11 +67,15 @@ _CS50_ is intended for:
 
 * NA
 
-## Prerequisites
+## Quick Start
 
-* Read-only recommended for [v1.0.0 versions](CS50/). See installation and usage details in each project's post-v1.0.0 repository.
+* Read-only recommended for [v1.0.0 versions](CS50/). See quickstart details in each project's post-v1.0.0 repository.
 
-## Getting Started
+## Local Setup
+
+### Prerequisites
+
+* Read-only recommended for [v1.0.0 versions](CS50/). See prerequisites details in each project's post-v1.0.0 repository.
 
 ### Dependencies
 
@@ -86,6 +92,10 @@ _CS50_ is intended for:
 ## Usage
 
 * Read-only recommended for [v1.0.0 versions](CS50/). See usage details in each project's post-v1.0.0 repository.
+
+## Production Setup
+
+* Read-only recommended for [v1.0.0 versions](CS50/). See production setup details in each project's post-v1.0.0 repository.
 
 ## System Administration
 
