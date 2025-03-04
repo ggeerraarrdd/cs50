@@ -65,7 +65,20 @@ _CS50_ is intended for:
 
 ## Project Structure
 
-* NA
+```text
+cs50/
+│
+├── CS50/
+│   │
+│   ├── CS50P/
+│   ├── CS50SQL/
+│   └── CS50x/
+│
+├── assets/
+├── .gitignore
+├── LICENSE
+└── README.md
+```
 
 ## Quick Start
 
