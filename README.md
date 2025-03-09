@@ -1,3 +1,9 @@
+<!-- markdownlint-disable MD041 -->
+[![GitHub release](https://img.shields.io/github/v/release/ggeerraarrdd/cs50)](https://github.com/ggeerraarrdd/cs50/releases)
+[![Maintenance](https://img.shields.io/badge/maintained-no-red.svg)](https://github.com/ggeerraarrdd/cs50/graphs/commit-activity)
+![Static Badge](https://img.shields.io/badge/repo_code-archive_only-blue)
+<!-- markdownlint-enable MD041 -->
+
 # CS50
 
 An archive of work for CS50x, CS50P and CS50SQL
@@ -39,7 +45,7 @@ Taking to heart the CS50 team's call to `Strive to create something that outlive
 | Course                                           | Title                                             | v1.0.0                                | Post v1.0.0                                                       |
 | ------------------------------------------------ | ------------------------------------------------- | ------------------------------------- | ----------------------------------------------------------------- |
 | [CS50x](https://cs50.harvard.edu/x/2023/)        | Introduction to Computer Science (v2023)          | [Geo50x](CS50/CS50x)                  | [Geofinder](https://github.com/ggeerraarrdd/geofinder)            |
-| [CS50P](https://cs50.harvard.edu/python/2022/)   | Introduction to Programming with Python (v2022)   | [Portfoliofy!](CS50/CS50P)            | [Portfoliofy! API](https://github.com/ggeerraarrdd/portfoliofy)   |
+| [CS50P](https://cs50.harvard.edu/python/2022/)   | Introduction to Programming with Python (v2022)   | [Portfoliofy!](CS50/CS50P)            | [Portfoliofy](https://github.com/ggeerraarrdd/portfoliofy)        |
 | [CS50SQL](https://cs50.harvard.edu/sql/2023/)    | Introduction to Databases with SQL (v2023)        | [Public Art Database](CS50/CS50SQL)   | [Public Art API](https://github.com/ggeerraarrdd/public-art)      |
 
 In accordance with CS50's [Academic Honesty](https://cs50.harvard.edu/x/2023/honesty/) policy, solutions to Problem Sets (psets) are not archived here and are housed instead in a separate, private [repository](https://github.com/ggeerraarrdd/cs50-psets):lock:. However, they can be shared upon requests by non-"future students", such as recruiters and hiring managers.
@@ -138,7 +144,7 @@ cs50/
 
 ## Contributing
 
-* NA
+This project is not accepting contributions at this time. It is intended solely for personal learning and exploration. However, feel free to clone the repository and use it as a learning resource.
 
 ## Acknowledgments
 
